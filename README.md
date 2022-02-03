@@ -1,9 +1,9 @@
 # creative-dai
 
 
-# Set Up canvas-sketch Environment
+## Set Up canvas-sketch Environment
 
-# Docs:  https://github.com/mattdesl/canvas-sketch
+## Docs:  https://github.com/mattdesl/canvas-sketch
 
 ## Install the CLI tool globally
 
